@@ -1,0 +1,6 @@
+test.exe
+test.jpg
+*.txt
+recv_*
+out/
+
